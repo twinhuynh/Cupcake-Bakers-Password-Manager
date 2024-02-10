@@ -7,10 +7,15 @@ handles all operations related to the credentials.
 OPERATIONS
 
  Register new user
+
  Verify user sign in
+
  Update username
+
  Update password
+
  Delete account
+
  Exit system
 
 Author: Tuyen Huynh
